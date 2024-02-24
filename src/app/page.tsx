@@ -83,7 +83,7 @@ export default function Home() {
       />
       <DialogContent className="flex flex-col space-y-4">
     <DialogHeader className="space-y-2">
-      <DialogTitle>Welcome to Ollama!</DialogTitle>
+      <DialogTitle>Welcome to Legal Intelligence System!</DialogTitle>
       <DialogDescription>
         Enter your name to get started. This is just to personalize your experience.
       </DialogDescription>
